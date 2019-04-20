@@ -19,5 +19,5 @@ function dec(n) {
   return n
 }
 function makeInt(n) {
-  return n.parseInt()
+  return parseInt(n)
 }
